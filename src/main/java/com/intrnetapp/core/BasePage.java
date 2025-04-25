@@ -21,5 +21,7 @@ public class BasePage {
             element.clear();
             element.sendKeys(text);
         }
+
+
     }
 }
